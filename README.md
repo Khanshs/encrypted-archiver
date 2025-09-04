@@ -38,9 +38,6 @@ Clone repository
 
 Install dependencies:
    ```bash
-    pip install -r requirements.txt
-     
-    OR install directly:
 
     pip install pyzipper
 
