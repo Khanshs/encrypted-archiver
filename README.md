@@ -21,8 +21,7 @@ Do not use it for unauthorized access or any illegal activity.
 
 ## Project Structure
 - `create_zip.py` → Create a ZIP file with a random numeric password.
-- `main![Uploading image.png…]()
-.py` → Try to crack the password using brute-force with multiprocessing.
+- `main.py` → Try to crack the password using brute-force with multiprocessing.
 - `raw.txt` → Sample file used for compression.
   
 
